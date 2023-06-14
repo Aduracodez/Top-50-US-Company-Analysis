@@ -1,4 +1,4 @@
-# Top 50 US Company Analysis
+# Top 50 US  Tech Company Analysis
 ![Tableau Dashboard ](https://github.com/Aduracodez/Top-50-US-Company-Analysis/assets/61586386/5b1da626-253f-4625-ae16-1848fbf3a7bc)
 This project is focused on analyzing and visualizing the top 50 technology companies in the United States using Tableau. The goal of this project is to provide insights into the performance and market presence of these companies.
 
