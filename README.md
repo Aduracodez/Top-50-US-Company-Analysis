@@ -5,10 +5,6 @@ This project is focused on analyzing and visualizing the top 50 technology compa
  # Tableau Workbook
 The Tableau workbook for this project contains several interactive visualizations that allow users to explore different aspects of the top 50 US tech companies. The workbook includes the following main sheets:
 
-Overview: This sheet provides an overview of the key metrics and statistics of the top 50 US tech companies. It includes visualizations such as a treemap showing market capitalization, a bar chart displaying revenue, and a scatter plot comparing profit and revenue.
-
-Geographic Analysis: This sheet visualizes the geographical distribution of the top 50 US tech companies. It includes a map that highlights the locations of the companies and provides additional details when hovering over each point.
-
 Industry Segments: This sheet explores the different industry segments represented in the top 50 US tech companies. It includes a pie chart showing the distribution of companies across various sectors and a stacked bar chart displaying the revenue breakdown by sector.
 
 Financial Performance: This sheet focuses on the financial performance of the top 50 US tech companies. It includes visualizations such as a line chart showing revenue growth over time, a stacked area chart comparing profit and revenue, and a bullet chart displaying key financial metrics for each company.
